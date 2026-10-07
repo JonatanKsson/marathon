@@ -17,14 +17,20 @@ body {
 .header-title {
     color:greenyellow;
     font-family:'Times New Roman', Times, serif;
-    font-size: 5rem;
+    -webkit-text-stroke: 1px black;
+    font-size: 6rem;
     font-weight: bold;
+    background-color: black;
+    border: 2px solid orange;
+    border-radius: 8px;
 }
 
 .main {
-    background-color: purple;
+    background-color: rgb(68, 38, 106);
     color: white;
+    font-size: 2rem;
     padding: 32px;
+<<<<<<< HEAD
 }
 
 .footer{
@@ -33,4 +39,7 @@ body {
     padding: 16px;
     text-align: center;
     border: 5px solid rgb(250, 5, 5);
+=======
+    text-align: center;
+>>>>>>> b415162294da1b525b10b4b7b0775753ae333c9b
 }
