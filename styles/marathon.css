@@ -30,7 +30,7 @@ body {
     color: white;
     font-size: 2rem;
     padding: 32px;
-<<<<<<< HEAD
+    text-align:center;
 }
 
 .footer{
@@ -39,7 +39,4 @@ body {
     padding: 16px;
     text-align: center;
     border: 5px solid rgb(250, 5, 5);
-=======
-    text-align: center;
->>>>>>> b415162294da1b525b10b4b7b0775753ae333c9b
 }
