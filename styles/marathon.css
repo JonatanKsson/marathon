@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    height: 100vh;
+}
+body {
+    background-color:black;
+}
+.header {
+    background-color:blue;
+    padding: 32px;
+    text-align: center;
+}
+.header-title {
+    color:greenyellow;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 5rem;
+    font-weight: bold;
+}
