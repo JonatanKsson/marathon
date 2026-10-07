@@ -7,11 +7,13 @@ html {
 body {
     background-color:black;
 }
+
 .header {
     background-color:blue;
     padding: 32px;
     text-align: center;
 }
+
 .header-title {
     color:greenyellow;
     font-family:'Times New Roman', Times, serif;
@@ -23,4 +25,12 @@ body {
     background-color: purple;
     color: white;
     padding: 32px;
+}
+
+.footer{
+    background-color: aquamarine;
+    font-size: 2rem;
+    padding: 16px;
+    text-align: center;
+    border: 5px solid rgb(250, 5, 5);
 }
