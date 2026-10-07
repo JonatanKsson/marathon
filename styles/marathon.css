@@ -19,3 +19,8 @@ body {
     font-weight: bold;
 }
 
+.main {
+    background-color: purple;
+    color: white;
+    padding: 32px;
+}
